@@ -6,6 +6,8 @@ int getnum(void);
 int getnum1(void);
 int main(void)
 {
+
+//comment by sachin
 	int i,a=0,b=0,k=0,e,msec;
 	clock_t start = clock(), diff;
 	printf("Welcome to the math test! press any key to start your test.\n\n");
